@@ -1,0 +1,8 @@
+Spray Foam SEO — Vercel deployment
+
+1. Upload the ENTIRE extracted folder, including assets/, to GitHub. Do not upload index.html alone.
+2. Vercel: Add New > Project > Import Git Repository.
+3. Framework Preset: Other. Root Directory: repository root. Build Command: leave empty. Output Directory: leave empty.
+4. Deploy. CSS should load at https://YOUR-SITE.vercel.app/assets/style.css
+5. The Netlify forms in this version DO NOT process submissions on Vercel; connect a form provider before launch.
+6. Replace example.com canonical URLs and placeholder contact info before launch.
